@@ -42,4 +42,21 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 30. 
 31. chocolate
 32. 
-33. 
+33.
+34. 
+35. 
+36. nutella
+37. 
+38. 
+39. Honey, cheese and sprinkles
+40. cheese
+41. 
+42. artichokes
+43. 
+44. 
+45. 
+46. olives
+47. Fried chicken and Watermelon
+48. red/green peppers
+49. Olives/Mushrooms
+51. Chicken Tikka
