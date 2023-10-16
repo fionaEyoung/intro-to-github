@@ -12,7 +12,7 @@ Then add your answer to the question beside your corresponding number.
 3. 
 4. 
 5. 
-6. 
+6. Vegetables
 7. 
 8. 
 9. 
