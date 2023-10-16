@@ -8,7 +8,7 @@ Then add your answer to the question beside your corresponding number.
 
 ## Question: What is your favourite pizza topping?
 1. 
-2. 
+2. Vegetables
 3. 
 4. 
 5. 
