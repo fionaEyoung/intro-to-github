@@ -14,7 +14,7 @@ Then add your answer to the question beside your corresponding number.
 5. 
 6. 
 7. 
-8. 
+8. Sushi
 9. 
 10. cheese
 11. 
