@@ -14,7 +14,7 @@ Then add your answer to the question beside your corresponding number.
 4. 
 5. 
 6. Vegetables
-7. 
+7. Tuna
 8. Sushi
 9. 
 10. cheese
