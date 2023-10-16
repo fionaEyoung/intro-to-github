@@ -7,7 +7,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 Then add your answer to the question beside your corresponding number.
 
 ## Question: What is your favourite pizza topping?
-1. 
+1. Prosciutto di Parma
 2. 
 3. 
 4. 
