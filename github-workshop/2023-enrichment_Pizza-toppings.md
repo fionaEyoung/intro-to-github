@@ -13,7 +13,7 @@ Then add your answer to the question beside your corresponding number.
 4. 
 5. 
 6. 
-7. 
+7. Tuna
 8. 
 9. 
 10. 
