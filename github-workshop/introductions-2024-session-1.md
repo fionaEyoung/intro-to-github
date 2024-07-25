@@ -7,16 +7,33 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What have you learned about your case study:
 
-Group 1:
+Group 1 (case study 1):
 
 
-Group 2:
+Group 2 (case study 2):
 
 
-Group 3:
+Group 3 (case study 3):
 
 
-Group 4:
+Group 4 (case study 4):
 
 
-Group 5: 
+Group 5 (case study 5): 
+
+
+Group 6 (case study 1):
+
+
+Group 7 (case study 2):
+
+
+Group 8 (case study 3):
+
+
+Group 9 (case study 4):
+
+
+Group 10 (case study 5): 
+
+
