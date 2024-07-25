@@ -8,20 +8,20 @@ Then add your answer to the question beside your corresponding number.
 
 ## Question: What is your favourite pizza topping?
 
-1. Prosciutto di Parma
-2. Vegetables
+1. 
+2. 
 3. 
 4. 
 5. 
-6. Vegetables
-7. Tuna
-8. Sushi
+6. 
+7. 
+8. 
 9. 
-10. cheese
-11. olives, anchovies & capers
-12. cheese
-13. Anchovies
-14. margherita
+10. 
+11. 
+12.
+13. 
+14. 
 15. 
 16. 
 17. 
