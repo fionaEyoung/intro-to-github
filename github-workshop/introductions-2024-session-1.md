@@ -62,8 +62,10 @@ Group 13 (Case Study Name: Linux):
 3. Linux uses GitHub to host its code.
 
 
-Group 14 (case study name):
-
+Group 14 (case study name Linux):
+1. License = GNU GPL
+2. Easy to modify and easy to collaborate
+3. GitHub 
 
 Group 15 (case study name): 
 
