@@ -28,7 +28,7 @@ Group 3 (case study 1): Linux
 Case study 2: Arduino
 1. Open source
 2. People can invent new ways to use the Arduino technology to create their own invention,
-3. hosted on Github.
+3. hosted on Github: https://github.com/arduino/
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. Creative Commons Attribute - Share Alike
@@ -47,7 +47,7 @@ Group 7 (case study name):
 
 
 Group 8 (case study 3): The Turing Way
-1. License: CC BY
+1. License: CC BY 4.0 and MIT
 2. Why: Education so can be shared, accessibility and can be edited to meet requirements, less costly
 3. Where hosted: GitHub link: https://github.com/the-turing-way/the-turing-way
 
@@ -74,12 +74,12 @@ Kernel.org
 Case study 2: Arduino
 1. CC BB SA
 2. lets other distribute work commercially 
-3. USBHost
+3. GitHub: https://github.com/arduino/
 
 Case study 3: The Turing Way
-1. CC BY
+1. CC BY 4.0 and MIT
 2. Anyone can edit however you have to credit
-3. GitHub
+3. GitHub: https://github.com/the-turing-way/the-turing-way
 
 Group 12 (case study name):
 
@@ -87,13 +87,13 @@ Group 12 (case study name):
 Group 13 (Case Study Name: Linux):
 1. The license used for Linux us GNU GPL as it is publicly available.
 2. It allows for collaboration between diffferent people to modify and use which is beneficial to the original and modified versions.
-3. Linux uses GitHub to host its code.
+3. Linux uses GitHub to host its code: https://github.com/torvalds/linux
 
 
 Group 14 (case study name Linux):
 1. License = GNU GPL
 2. Easy to modify and easy to collaborate
-3. GitHub 
+3. GitHub: https://github.com/torvalds/linux
 
 Group 15 (case study name): 
 
@@ -101,16 +101,16 @@ Group 15 (case study name):
 Group 16 (case study 2): Arduino)
 1. Open source 
 2. Easy to use and enables people to share ideas about what they are producing. Being open source, also allows multiple people to work on one project to improve it at a faster rate. 
-3. It is hosted on GitHub.
+3. It is hosted on GitHub: https://github.com/arduino/
 
 Group 17 (case study 1): Linux
 1. open source
 2. flexibility, create apps
-2. source code: kernel
+2. source code: GitHub: https://github.com/torvalds/linux
 
 Group 15 (case study 3): The Turing Way
-1. The Turing Way has an open source license 
+1. The Turing Way has two open source licenses: CC BY 4.0 and MIT
 2. It is based on ethical research by a group of data scientists and therefore y making it an open source license it ensures everyone has an opinion on a research program being  investigated by data scientists
-3. It is hosted on Github
+3. It is hosted on Github: https://github.com/the-turing-way/the-turing-way
 
 
