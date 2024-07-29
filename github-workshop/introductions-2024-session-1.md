@@ -15,10 +15,10 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 Group 1 (case study name):
 
 
-Group 2 (case study name):
-License: CC-BY-SA
-Benefits: Allows for efficient development fir arduino hardware or other more special cases where modifications are necessary
-Platform: Website
+Group 2 (case study 2): Arduino
+1. License: CC-BY-SA
+2. Benefits: Allows for efficient development for arduino hardware or other more special cases where modifications are necessary
+3. Platform: Website, and GitHub: https://github.com/arduino/
 
 Group 3 (case study name):
 
