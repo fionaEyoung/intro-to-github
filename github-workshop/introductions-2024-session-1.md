@@ -76,7 +76,7 @@ Group 16 (case study name):
 Group 17 (linux):
 open source
 flexibility, create apps
-linux, android, amazon, ubuntu
+source code: kernel
 
 
 
