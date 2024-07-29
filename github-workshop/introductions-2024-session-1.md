@@ -12,25 +12,25 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 ## Question: What have you learned about your case study:
 
-Group 1 (case study 1):
+Group 1 (case study name):
 
 
-Group 2 (case study 2):
+Group 2 (case study name):
 
 
-Group 3 (case study 3):
+Group 3 (case study name):
 
 
-Group 4 (case study 4):
+Group 4 (case study name):
 
 
-Group 5 (case study 5): 
+Group 5 (case study name): 
 
 
-Group 6 (case study 1):
+Group 6 (case study name):
 
 
-Group 7 (case study 2):
+Group 7 (case study name):
 
 
 Group 8 (case study 3): The Turing Way
@@ -38,9 +38,48 @@ Group 8 (case study 3): The Turing Way
 - Why: Education so can be shared, accessibility and can be edited to meet requirements, less costly
 - Where hosted: GitHub link: https://github.com/the-turing-way/the-turing-way
 
-Group 9 (case study 4):
+Group 9 (case study name):
+
+LINUX
+
+- It allows anyone to freely modify and use thier source code for comercial or unpaid projects
+- They use an GPL liscence
+- Their source code is hosted on kernel.org.
 
 
-Group 10 (case study 5): 
+Group 10 (case study name): 
+open source AI
+1. permissive
+2. Promotes Collaboration and Transparency
+3. GitHub??
+
+Group 11 (case study name):
+
+
+Group 12 (case study name):
+
+
+Group 13 (Case Study Name: Linux):
+1. The license used for Linux us GNU GPL as it is publicly available.
+2. It allows for collaboration between diffferent people to modify and use which is beneficial to the original and modified versions.
+3. Linux uses GitHub to host its code.
+
+
+Group 14 (case study name Linux):
+1. License = GNU GPL
+2. Easy to modify and easy to collaborate
+3. GitHub 
+
+Group 15 (case study name): 
+
+
+Group 16 (case study name):
+
+
+Group 17 (linux):
+open source
+flexibility, create apps
+linux, android, amazon, ubuntu
+
 
 
