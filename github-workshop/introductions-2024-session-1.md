@@ -24,13 +24,13 @@ Group 3 (case study 3):
 Group 4 (case study 4):
 
 
-Group 5 (case study 5): 
-1- Open souce
+Group 5 (case study 5): Open Source AI
+1. Open souce
    People can modifiy it for there own needs so more people will use it
    Github
-2- Open source
+2. Open source
    Anyone can modiy it for there own needs
-   Github
+3. Github: 
 
 Group 6 (case study 1):
 
