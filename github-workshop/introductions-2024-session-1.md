@@ -41,7 +41,7 @@ LINUX
 
 - It allows anyone to freely modify and use thier source code for comercial or unpaid projects
 - They use an GPL liscence
-- There source code is hosted on kernel.org.
+- Their source code is hosted on kernel.org.
 
 
 Group 10 (case study name): 
