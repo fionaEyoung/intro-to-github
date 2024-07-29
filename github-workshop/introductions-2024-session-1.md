@@ -34,7 +34,7 @@ Group 5 (case study 5): Open Source AI
    Github
 2. Open source
    Anyone can modiy it for there own needs
-3. Github: 
+3. Pressable: Pressable (listed at the bottom of the page: https://opensource.org/deepdive#cfp) 
 
 
 Group 6 (case study name):
