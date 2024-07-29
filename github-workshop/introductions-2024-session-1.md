@@ -35,13 +35,21 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Any adaptations must have the same license as the original
 3. GitHub
 
-Group 5 (case study name): 
+
+Group 5 (case study 5): Open Source AI
+1. Open souce
+   People can modifiy it for there own needs so more people will use it
+   Github
+2. Open source
+   Anyone can modiy it for there own needs
+3. Pressable: Pressable (listed at the bottom of the page: https://opensource.org/deepdive#cfp) 
 
 
 Group 6 (case study 1): Linux
 1. GNU General Public License version 2 - Copyleft license
 2. Why:
 3. GitHub: https://github.com/torvalds/linux
+
 
 Group 7 (case study name):
 
