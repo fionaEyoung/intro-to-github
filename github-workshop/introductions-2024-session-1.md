@@ -42,9 +42,9 @@ Group 9 (case study 4):
 Group 10 (case study 5): 
 
 
-Group 15 (case study 3):
- The Turing Way has an open source license 
- It is based on ethical research by a group of data scientists and therefore y making it an open source license it ensures everyone has an opinion on a research program being  investigated by data scientists
- It is hosted on Github
+Group 15 (case study 3): The Turing Way
+- The Turing Way has an open source license 
+- It is based on ethical research by a group of data scientists and therefore y making it an open source license it ensures everyone has an opinion on a research program being  investigated by data scientists
+- It is hosted on Github
 
 
