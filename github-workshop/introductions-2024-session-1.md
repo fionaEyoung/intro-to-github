@@ -39,9 +39,9 @@ Group 8 (case study name):
 Group 9 (case study name):
 LINUX
 
-- It allows anyone to freely modify and use thier source code for comercial or unpaid projects
-- They use an GPL liscence
-- Their source code is hosted on kernel.org.
+1. They use an GPL liscence
+2. It allows anyone to freely modify and use thier source code for comercial or unpaid projects
+3. There source code is hosted on kernel.org.
 
 
 Group 10 (case study name): 
