@@ -46,7 +46,7 @@ LINUX
 
 Group 10 (case study name): 
 open source AI
-1. Public Domain Software
+1. permissive
 2. Promotes Collaboration and Transparency
 3. GitHub??
 
