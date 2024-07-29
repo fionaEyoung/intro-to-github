@@ -16,7 +16,9 @@ Group 1 (case study name):
 
 
 Group 2 (case study name):
-
+License: CC-BY-SA
+Benefits: Allows for efficient development fir arduino hardware or other more special cases where modifications are necessary
+Platform: Website
 
 Group 3 (case study name):
 
