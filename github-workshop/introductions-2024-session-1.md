@@ -57,6 +57,21 @@ open source AI
 3. GitHub??
 
 Group 11 (case study name):
+Case study 1:
+Copyleft
+Anyone can change but under same licensing
+Kernel.org
+
+Case study 2:
+CC BB SA
+lets other distribute work commercially 
+USBHost
+
+Case study 3:
+CC BY
+Anyone can edit however you have to credit
+GitHub
+
 
 
 Group 12 (case study name):
