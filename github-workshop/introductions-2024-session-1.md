@@ -36,7 +36,7 @@ Group 7 (case study 2):
 Group 8 (case study 3): The Turing Way
 - License: CC BY
 - Why: Education so can be shared, accessibility and can be edited to meet requirements, less costly
-- Where hosted: GitHub
+- Where hosted: GitHub link: https://github.com/the-turing-way/the-turing-way
 
 Group 9 (case study 4):
 
