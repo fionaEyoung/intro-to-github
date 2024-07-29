@@ -31,7 +31,10 @@ Group 5 (case study name):
 
 
 Group 6 (case study name):
+Linux
+GNU General Public License version 2 - Copyleft license
 
+https://github.com/torvalds/linux
 
 Group 7 (case study name):
 
