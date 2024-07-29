@@ -48,7 +48,10 @@ Group 11 (case study name):
 Group 12 (case study name):
 
 
-Group 13 (case study name):
+Group 13 (Case Study Name: Linux):
+1. The license used for Linux us GNU GPL as it is publicly available.
+2. It allows for collaboration between diffferent people to modify and use which is beneficial to the original and modified versions.
+3. Linux uses GitHub to host its code.
 
 
 Group 14 (case study name):
