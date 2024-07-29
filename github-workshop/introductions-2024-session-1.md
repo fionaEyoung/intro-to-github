@@ -18,8 +18,8 @@ Group 1 (case study name):
 Group 2 (case study name):
 
 
-Group 3 (case study name):
-
+Group 3 (case study name):Linux - Open source, People can create different versions of Linux that can help specific scenarios, hosted on Github.
+Arduino - Open source, People can invent new ways to use the Arduino technology to create their own invention, hosted on Github.
 
 Group 4 (case study name):
 Open Source Investigation (OSINT):
