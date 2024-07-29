@@ -22,7 +22,10 @@ Group 3 (case study name):
 
 
 Group 4 (case study name):
-
+Open Source Investigation (OSINT):
+Creative Commons Attribute - Share Alike
+Any adaptations must have the same license as the original
+GitHub
 
 Group 5 (case study name): 
 
