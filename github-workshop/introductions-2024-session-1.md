@@ -34,7 +34,9 @@ Group 7 (case study 2):
 
 
 Group 8 (case study 3):
-
+License: CC BY
+Why: Education so can be shared, accessibility and can be edited to meet requirements, less costly
+Where hosted: GitHub
 
 Group 9 (case study 4):
 
