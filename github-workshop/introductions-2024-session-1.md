@@ -91,12 +91,10 @@ Group 14 (case study name Linux):
 Group 15 (case study name): 
 
 
-Group 16 (Arduino):
-Open source 
-Easy to use and enables people to share ideas about what they are producing. Being open source, also allows multiple people to work on one project to improve it at a faster rate. 
-It is hosted on GitHub.
-
-
+Group 16 (Case study 2): Arduino
+1. Open source 
+2. Easy to use and enables people to share ideas about what they are producing. Being open source, also allows multiple people to work on one project to improve it at a faster rate. 
+3. It is hosted on GitHub.
 
 Group 17 (linux):
 open source
