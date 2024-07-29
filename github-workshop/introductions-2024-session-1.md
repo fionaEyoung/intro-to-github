@@ -40,7 +40,10 @@ Group 9 (case study name):
 
 
 Group 10 (case study name): 
-
+open source AI
+1. Public Domain Software
+2. Promotes Collaboration and Transparency
+3. GitHub??
 
 Group 11 (case study name):
 
