@@ -15,8 +15,10 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 Group 1 (case study name):
 
 
-Group 2 (case study name):
-
+Group 2 (case study 2): Arduino
+1. License: CC-BY-SA
+2. Benefits: Allows for efficient development for arduino hardware or other more special cases where modifications are necessary
+3. Platform: Website, and GitHub: https://github.com/arduino/
 
 Group 3 (case study name):Linux - Open source, People can create different versions of Linux that can help specific scenarios, hosted on Github.
 Arduino - Open source, People can invent new ways to use the Arduino technology to create their own invention, hosted on Github.
