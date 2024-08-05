@@ -28,9 +28,9 @@ Group 3 (case study 3): The Turing way
 3. Platform:  
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: *Copyright / Open license*
+2. Benefits: *The site allows public access to information that's fact checked and accurate resulting in higher validity*
+3. Platform: *GitHub*
 
 Group 5 (case study 5): Open Source AI
 1. License: 
