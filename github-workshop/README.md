@@ -9,9 +9,7 @@ Hello and Welcome to the Git Good Workshop! This folder contains the materials a
 
 
 # Other Information
-
-This workshop is awesome! 
-:wave:
+Take a look at this [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) to learn how to format text in GitHub (and may other places where markdown is employed!) 
 
 
 
