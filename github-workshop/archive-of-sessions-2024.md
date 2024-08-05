@@ -93,8 +93,10 @@ Case study 3: The Turing Way
 2. Anyone can edit however you have to credit
 3. GitHub: https://github.com/the-turing-way/the-turing-way
 
-Group 12 (case study name):
-
+Group 12 Linux:
+1. GNU GPL
+2. Open source operating system which allows free access and modification
+3. GitHub: (https://github.com/torvalds/linux
 
 Group 13 (Case Study Name: Linux):
 1. The license used for Linux us GNU GPL as it is publicly available.
