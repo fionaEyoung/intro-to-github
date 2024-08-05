@@ -40,7 +40,7 @@ Group 5 (case study 5): Open Source AI
 Group 6 (case study 1): Linux
 1. License: [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
 2. Benefits: The GPL allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source.
-3. Platform: Github
+3. Platform: Github.com
 
 Group 7 (case study name): Arduino
 1. License: 
