@@ -23,9 +23,9 @@ Group 2 (case study 2): Arduino
 3. Platform: 
 
 Group 3 (case study 3): The Turing way
-1. License: 
-2. Benefits:
-3. Platform:  
+1. License: Open source. Documents and data under CC-BY, Software under MIT.
+2. Benefits: Accessible to all.
+3. Platform: Github and website.
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. License: 
