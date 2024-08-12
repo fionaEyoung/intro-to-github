@@ -43,9 +43,9 @@ Group 6 (case study 1): Linux
 3. Platform: 
 
 Group 7 (case study name 2): Arduino
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: CC BY-SA
+2. Benefits: makes it accessible for beginners, is versatile for advanced users in developing various electronic prototypes and it is designed for creating interactive projects. 
+3. Platform: Arduino cloud 
 
 Group 8 (case study 3): The Turing Way
 1. License: 
