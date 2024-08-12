@@ -86,9 +86,9 @@ Group 12 (case study 2):
 
 
 Group 13 (case study 3):
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Copyleft
+2. Benefits: It prevents people from taking advantage from the intellectual work of your own. It prevent anyone from taking advantage of the free software and making it restrictive. They ensure that the software remains free for everyone to use, study, modify, and share. 
+3. Platform: Github
 
 
 Group 14 (case study 4):
