@@ -22,10 +22,18 @@ Group 2 (case study 2): Arduino
 2. Benefits: You can use them on your own derived works, in part or completely, as long as you also adopt the same license.
 3. Platform: Cross-platform
 
-Group 3 (case study 3): The Turing way
-1. License: 
-2. Benefits: 
-3. Platform: 
+Group 3 (case study 3): The Turing Way
+1. License: CC-BY 4.0
+2. Benefits:
+lets others remix, tweak, and build upon your work even for commercial purposes (for license)
+Track a complete history of your research.
+Facilitate collaboration and review process.
+Publish validated research and avoid misinformation.
+Write your papers, thesis and reports efficiently.
+Get credits for your work fairly.
+^ (for turing way itself)
+3. Platform: GitHub, GitLab, Wikifactory, hackaday.io
+
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. License: 
