@@ -42,7 +42,7 @@ Group 6 (case study 1): Linux
 2. Benefits: 
 3. Platform: 
 
-Group 7 (case study name): Arduino
+Group 7 (case study name 2): Arduino
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -71,7 +71,6 @@ Group 12 (case study 2): Arduino
 1. License: 
 2. Benefits:
 3. Platform: 
-
 
 Group 13 (case study 3): The Turing Way
 1. License: 
