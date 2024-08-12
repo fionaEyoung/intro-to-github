@@ -18,59 +18,54 @@ Group 1 (case study 1): Linux
 3. Platform: 
 
 Group 2 (case study 2): Arduino
-1. License: CC-BY-SA
-2. Benefits: Get credit for their work, can sell their products and people who use it can't copyright
-3. Platform: cross-platform
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 3 (case study 3): The Turing way
-1. License: Open source. Documents and data under CC-BY, Software under MIT.
-2. Benefits: Accessible to all.
-3. Platform: Github and website.
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
-1. License: *Copyright / Open license*
-2. Benefits: *The site allows public access to information that's fact checked and accurate resulting in higher validity*
-3. Platform: *GitHub*
+1. License: 
+2. Benefits: 
+3. Platform: 
 
-Group 5 (case study 5): Open Source AI
-1. License: Creative Commons Attributions 4.0 License
-2. Benefits:Freely available for anyone to use, modify, and distribute. promotes collaboration, transparency and innovation in the development of Ai technologies.
-4. Platform: various website
+Group 5 (case study 5): 
+1. License: 
+2. Benefits:
+4. Platform:
 
 Group 6 (case study 1): Linux
-1. License: [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text)
-2. Benefits: The GPL allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source.
-3. Platform: Github.com
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 7 (case study name): Arduino
-1. License: GNU PUBLIC LICENSE 
-2. Benefits: GUARANTEES USERS THE ABILITY TO RUN, STUDY, SHARE AND MODIFY. CAN BE USED AS A TOOL TO CREATE PROPRIETARY SOFTWARE. 
-3. Platform: GITHUB
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 8 (case study 3): The Turing Way
 1. License: 
 2. Benefits:
 3. Platform: 
 
-### Group 9 (case study 4): Open Source Investigation (OSINT)
-#### 1. License: 
-       Open Source   
-#### 2. Benefits:
-   * Vast amount of information available due to organisations collaborating information.
-   * No legal issues
-#### 3. Platform:
-  Any
+Group 9 (case study 4): Open Source Investigation (OSINT)
+1. License:   
+2. Benefits:
+3. Platform:
 
 Group 10 (case study 5): open source AI
-1. License: Open source
-2. Benefits: anyone can use it. Well documented.
-3. Platform: https://opensource.org/deepdive#cfp
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 11 (case study 1): Linux
-1. License: GNU General Public License
-2. Benefits: Secure, flexible, making it popular for servers and many devices
-3. Platform: Linux
-
+1. License: 
+2. Benefits: 
+3. Platform: 
 
 Group 12 (case study 2):
 1. License: 
