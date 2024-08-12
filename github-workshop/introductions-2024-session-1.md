@@ -13,9 +13,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: GNU General Public License version 2 (GPLv2)
-2. Benefits: free to use, modify and distribute the software / flexible, secure, reliable, encourages collaboration and innovation, protects rights, trusted by industries
-3. Platform: kernel.org, github, gitlab
+1. License: 
+2. Benefits:
+3. Platform: 
 
 Group 2 (case study 2): Arduino
 1. License: 
@@ -33,14 +33,14 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 3. Platform: 
 
 Group 5 (case study 5): Open source AI
-1. License: public domain
-2. Benefits: allows transparency, collaboration and innovation
-3. Platform: various website
+1. License: 
+2. Benefits:
+4. Platform:
 
 Group 6 (case study 1): Linux
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: The license that Linux use is the GNU General Public License (GPL). This licnese is open source.
+2. Benefits: It's widely accessible to everyone, meaning the software can be improved by communities. The licenses' intention is to promote freedom so all versions of a program can be shared and modified at no extra cost which allows devices, servers and computers to operate safely on Linux.
+3. Platform: kernel.org
 
 Group 7 (case study name 2): Arduino
 1. License: 
@@ -48,9 +48,9 @@ Group 7 (case study name 2): Arduino
 3. Platform: 
 
 Group 8 (case study 3): The Turing Way
-1. License: Open Source 
-2. Benefits: To allow for collaborative research to be accessible, comprehensive and community - driven and transparent e.g academic research to ensure work is clear, open science and software development to ensure code is well documented. 
-3. Platform: GitHub
+1. License: 
+2. Benefits:
+3. Platform: 
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
 1. License:   
@@ -91,9 +91,9 @@ Group 15 (case study 5): Open source AI
 
 
 Group 16 (case study 1): Linux
-1. License: GNU General Public License (GPL)
-2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source.
-3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
+1. License: 
+2. Benefits:
+3. Platform: 
 
 
 Group 17 (case study 2): Arduino
