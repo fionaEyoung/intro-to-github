@@ -32,10 +32,11 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: 
 3. Platform: 
 
-Group 5 (case study 5): 
-1. License: 
-2. Benefits:
-4. Platform:
+Group 5 (case study 5): Open source AI
+1. License: public domain
+2. Benefits: allows transparency, collaboration and innovation
+3. Platform: various website
+
 
 Group 6 (case study 1): Linux
 1. License: 
@@ -91,10 +92,12 @@ Group 15 (case study 5):
 3. Platform: 
 
 
-Group 16 (case study 1):
-1. License: 
-2. Benefits:
-3. Platform: 
+
+Group 16 (case study 1): Linux
+1. License: GNU General Public License (GPL)
+2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source.
+3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
+
 
 
 Group 17 (case study 2): 
