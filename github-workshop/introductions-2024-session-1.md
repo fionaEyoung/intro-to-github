@@ -13,16 +13,16 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: GNU General Public License version 2 (GPLv2)
+2. Benefits: free to use, modify and distribute the software / flexible, secure, reliable, encourages collaboration and innovation, protects rights, trusted by industries
+3. Platform: kernel.org, github, gitlab
 
 Group 2 (case study 2): Arduino
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: CC BY-SA
+2. Benefits: You can use them on your own derived works, in part or completely, as long as you also adopt the same license.
+3. Platform: Cross-platform
 
-Group 3 (case study 3): The Turing Way
+Group 3 (case study 3): The Turing way
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -32,7 +32,7 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: 
 3. Platform: 
 
-Group 5 (case study 5): Open source AI
+Group 5 (case study 5): 
 1. License: 
 2. Benefits:
 4. Platform:
@@ -48,16 +48,16 @@ Group 7 (case study name 2): Arduino
 3. Platform: Arduino cloud 
 
 Group 8 (case study 3): The Turing Way
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Open Source 
+2. Benefits: To allow for collaborative research to be accessible, comprehensive and community - driven and transparent e.g academic research to ensure work is clear, open science and software development to ensure code is well documented. 
+3. Platform: GitHub
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
 1. License:   
 2. Benefits:
 3. Platform:
 
-Group 10 (case study 5): Open source AI
+Group 10 (case study 5): open source AI
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -67,41 +67,46 @@ Group 11 (case study 1): Linux
 2. Benefits: 
 3. Platform: 
 
-Group 12 (case study 2): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
-
-Group 13 (case study 3): The Turing Way
+Group 12 (case study 2):
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 14 (case study 4): Open Source Investigation (OSINT)
+Group 13 (case study 3):
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 15 (case study 5): Open source AI
+Group 14 (case study 4):
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 16 (case study 1): Linux
+Group 15 (case study 5): 
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 17 (case study 2): Arduino
+Group 16 (case study 1):
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
+Group 17 (case study 2): 
+1. License: 
+2. Benefits:
+3. Platform: 
+
+
+Group 15 (case study 3): 
+1. License: 
+2. Benefits:
+3. Platform: 
 
 
 
