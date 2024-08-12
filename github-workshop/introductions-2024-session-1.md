@@ -13,16 +13,16 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: GNU General Public License version 2 (GPLv2)
-2. Benefits: free to use, modify and distribute the software / flexible, secure, reliable, encourages collaboration and innovation, protects rights, trusted by industries
-3. Platform: kernel.org, github, gitlab
+1. License: 
+2. Benefits:
+3. Platform: 
 
 Group 2 (case study 2): Arduino
-1. License: CC BY-SA
-2. Benefits: You can use them on your own derived works, in part or completely, as long as you also adopt the same license.
-3. Platform: Cross-platform
+1. License: 
+2. Benefits: 
+3. Platform: 
 
-Group 3 (case study 3): The Turing way
+Group 3 (case study 3): The Turing Way
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -32,7 +32,7 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: 
 3. Platform: 
 
-Group 5 (case study 5): 
+Group 5 (case study 5): Open source AI
 1. License: 
 2. Benefits:
 4. Platform:
@@ -42,22 +42,22 @@ Group 6 (case study 1): Linux
 2. Benefits: 
 3. Platform: 
 
-Group 7 (case study name): Arduino
+Group 7 (case study name 2): Arduino
 1. License: 
 2. Benefits: 
 3. Platform: 
 
 Group 8 (case study 3): The Turing Way
-1. License: Open Source 
-2. Benefits: To allow for collaborative research to be accessible, comprehensive and community - driven and transparent e.g academic research to ensure work is clear, open science and software development to ensure code is well documented. 
-3. Platform: GitHub
+1. License: 
+2. Benefits:
+3. Platform: 
 
 Group 9 (case study 4): Open Source Investigation (OSINT)
-1. License:   
-2. Benefits:
-3. Platform:
+1. License: they have a public domain so evryone can use it without restrictions  
+2. Benefits:anyone is free to use and modify the software, and it is not owned by anyone 
+3. Platform: they utilse GitHub 
 
-Group 10 (case study 5): open source AI
+Group 10 (case study 5): Open source AI
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -67,46 +67,41 @@ Group 11 (case study 1): Linux
 2. Benefits: 
 3. Platform: 
 
-Group 12 (case study 2):
+Group 12 (case study 2): Arduino
+1. License: 
+2. Benefits:
+3. Platform: 
+
+Group 13 (case study 3): The Turing Way
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 13 (case study 3):
+Group 14 (case study 4): Open Source Investigation (OSINT)
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 14 (case study 4):
+Group 15 (case study 5): Open source AI
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 15 (case study 5): 
+Group 16 (case study 1): Linux
+1. License: GNU General Public License (GPL)
+2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source
+3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
+
+
+Group 17 (case study 2): Arduino
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
-Group 16 (case study 1):
-1. License: 
-2. Benefits:
-3. Platform: 
-
-
-Group 17 (case study 2): 
-1. License: 
-2. Benefits:
-3. Platform: 
-
-
-Group 15 (case study 3): 
-1. License: 
-2. Benefits:
-3. Platform: 
 
 
 
