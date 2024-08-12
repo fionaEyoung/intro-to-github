@@ -80,9 +80,9 @@ Group 13 (case study 3): The Turing Way
 
 
 Group 14 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: The projects license is attribution-noderivs
+2. Benefits: Original work remains authentic and is credited 
+3. Platform: social media websites and public records
 
 
 Group 15 (case study 5): Open source AI
