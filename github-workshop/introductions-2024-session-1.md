@@ -35,10 +35,9 @@ Get credits for your work fairly.
 3. Platform: GitHub, GitLab, Wikifactory, hackaday.io
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits: 
-3. Platform: 
-
+1. License: Open License
+2. Benefits: anyone from large cooperations to individuals can access infomation that has already been fact checked increasing the validity and reliablity of the infomation 
+3. Platform: Various websites
 
 Group 5 (case study 5): Open source AI
 1. License: 
