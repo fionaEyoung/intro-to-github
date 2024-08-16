@@ -39,7 +39,7 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: anyone from large cooperations to individuals can access infomation that has already been fact checked increasing the validity and reliablity of the infomation 
 3. Platform: Various websites
 
-Group 5 (case study 5): Open source AI
+Group 5 (case study 5): 
 1. License: 
 2. Benefits:
 4. Platform:
@@ -54,7 +54,6 @@ Group 7 (case study name 2): Arduino
 2. Benefits: makes it accessible for beginners, is versatile for advanced users in developing various electronic prototypes and it is designed for creating interactive projects. 
 3. Platform: Arduino cloud 
 
-
 Group 8 (case study 3): The Turing Way
 1. License: 
 2. Benefits:
@@ -65,7 +64,7 @@ Group 9 (case study 4): Open Source Investigation (OSINT)
 2. Benefits:anyone is free to use and modify the software, and it is not owned by anyone 
 3. Platform: they utilse GitHub 
 
-Group 10 (case study 5): Open source AI
+Group 10 (case study 5): open source AI
 1. License: 
 2. Benefits: 
 3. Platform: 
@@ -76,28 +75,24 @@ Group 11 (case study 1): Linux
 3. Platform: 
 
 Group 12 (case study 2): Arduino
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Creative Commons by SA.
+2. Benefits: Easy to use, simple to understand, beginner friendly for starter projects.
+3. Platform: Arduino IDE.
 
 Group 13 (case study 3): The Turing Way
 1. License: Copyleft
 2. Benefits: It prevents people from taking advantage from the intellectual work of your own. It prevent anyone from taking advantage of the free software and making it restrictive. They ensure that the software remains free for everyone to use, study, modify, and share. 
 3. Platform: Github
 
-
-Group 14 (case study 4): Open Source Investigation (OSINT)
+Group 14 (case study 4):
 1. License: 
 2. Benefits:
 3. Platform: 
 
-
-Group 15 (case study 5): Open source AI
+Group 15 (case study 5): 
 1. License: 
 2. Benefits:
 3. Platform: 
-
-
 
 Group 16 (case study 1): Linux
 1. License: GNU General Public License (GPL)
@@ -105,12 +100,10 @@ Group 16 (case study 1): Linux
 3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
 
 
-
 Group 17 (case study 2): Arduino
 1. License: 
 2. Benefits:
 3. Platform: 
-
 
 
 
