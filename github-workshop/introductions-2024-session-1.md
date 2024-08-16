@@ -90,10 +90,10 @@ Group 14 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: Original work remains authentic and is credited 
 3. Platform: social media websites and public records
 
-Group 15 (case study 5): 
-1. License: 
-2. Benefits:
-3. Platform: 
+Group 15 (case study 5): Open source AI
+1. License: MIT Copyright License
+2. Benefits: People can use, modify and share their work without paying a price. There are also few restrictions so they can essentially do what they feel like.
+3. Platform: Open source AI can be used on Github and other government cloud systems.
 
 Group 16 (case study 1): Linux
 1. License: GNU General Public License (GPL)
