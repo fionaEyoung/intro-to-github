@@ -44,6 +44,7 @@ Group 5 (case study 5):
 2. Benefits:
 4. Platform:
 
+
 Group 6 (case study 1): Linux
 1. License: The license that Linux use is the GNU General Public License (GPL). This licnese is open source.
 2. Benefits: It's widely accessible to everyone, meaning the software can be improved by communities. The licenses' intention is to promote freedom so all versions of a program can be shared and modified at no extra cost which allows devices, servers and computers to operate safely on Linux.
@@ -65,9 +66,9 @@ Group 9 (case study 4): Open Source Investigation (OSINT)
 3. Platform: they utilse GitHub 
 
 Group 10 (case study 5): open source AI
-1. License: 
-2. Benefits: 
-3. Platform: 
+1. License: MIT license
+2. Benefits: Promotes collaboration, transparency and innovation in the development of AI technology.  
+3. Platform: Various such as TensorFlow
 
 Group 11 (case study 1): Linux
 1. License: 
@@ -99,12 +100,15 @@ Group 16 (case study 1): Linux
 2. Benefits: allows anybody to redistribute, and even sell, a product covered by the GPL, as long as the recipient is allowed to rebuild an exact copy of the binary files from source
 3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
 
-
-Group 17 (case study 2): Arduino
+Group 17 (case study 2): 
 1. License: 
 2. Benefits:
 3. Platform: 
 
 
+Group 15 (case study 3): 
+1. License: 
+2. Benefits:
+3. Platform: 
 
 
