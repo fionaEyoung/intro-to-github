@@ -85,10 +85,10 @@ Group 13 (case study 3): The Turing Way
 2. Benefits: It prevents people from taking advantage from the intellectual work of your own. It prevent anyone from taking advantage of the free software and making it restrictive. They ensure that the software remains free for everyone to use, study, modify, and share. 
 3. Platform: Github
 
-Group 14 (case study 4):
-1. License: 
-2. Benefits:
-3. Platform: 
+Group 14 (case study 4): Open Source Investigation (OSINT)
+1. License: The projects license is attribution-noderivs
+2. Benefits: Original work remains authentic and is credited 
+3. Platform: social media websites and public records
 
 Group 15 (case study 5): 
 1. License: 
@@ -101,12 +101,6 @@ Group 16 (case study 1): Linux
 3. Platform: Supported on almost every major computer system, e.g., x86, ARM, SPARC
 
 Group 17 (case study 2): 
-1. License: 
-2. Benefits:
-3. Platform: 
-
-
-Group 15 (case study 3): 
 1. License: 
 2. Benefits:
 3. Platform: 
