@@ -14,11 +14,10 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 Group 1 (case study 1): Linux
 1. License: Public Domain.
-2. Benefits: Users can find bugs and fix those bugs
+2. Benefits: more 'eyeballs' = more likely to identify bugs/backdoors. then fix those bugs.
 3. Platform: Kernel.org/ Github
 
 Group 1.2 (case study 1): Linux
-Group 1 (case study 1): Linux
 1. License: Public Domain.
 2. Benefits: Users can find bugs and fix those bugs.
 3. Platform: Kernel.org/ Github.
