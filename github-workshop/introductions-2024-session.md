@@ -23,9 +23,9 @@ Group 2 (case study 2): Arduino
 3. Platform: https://github.com/arduino.
 
 Group 3 (case study 3): The Turing Way
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: CC 
+2. Benefits: It allows the creator to share their work and allow others to use and edit it under copyright law.
+3. Platform: Github
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. License: open source / free domain 
