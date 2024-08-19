@@ -24,14 +24,14 @@ Group 1 (case study 1): Linux
 3. Platform: Kernel.org/ Github.
 
 Group 2 (case study 2): Arduino
-1. License: Creative Commons
-2. Benefits: Support can be provided by community, transparency between users and developers = trust, allows users to apply electronic board to different projects
-3. Platform: https://github.com/arduino.
+1. License: Public Domain.
+2. Benefits: Users can impliment their own features.
+3. Platform: Github.
 
 Group 3 (case study 3): The Turing Way
-1. License: CC 
-2. Benefits: It allows the creator to share their work and allow others to use and edit it under copyright law.
-3. Platform: Github
+1. License: Open Source
+2. Benefits: Free, modifiable data. Makes data science and research reproducible, ethical, and collaborative
+3. Platform: 
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
 1. License: open source / free domain 
@@ -45,9 +45,9 @@ Group 5 (case study 5):
 
 
 Group 6 (case study 1): Linux
-1. License: They use the open source GPL and LGPL licences.
-2. Benefits: Is peer reviewed by the community and other organisations, can submit changes to the source code including advancements and bugfixes that goes through a review system.
-3. Platform: https://github.com/torvalds/linux
+1. License: 
+2. Benefits:
+3. Platform: 
 
 Group 7 (case study name 2): Arduino
 1. License: 
