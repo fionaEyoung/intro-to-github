@@ -13,6 +13,11 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
+1. License: General Public Licence.
+3. Benefits: Linux can be developed by various different developers for free. Security is far better, more user customisability
+5. Platform: Kernel.org/ Github
+
+Group 1.2 (case study 1): Linux
 1. License: Public Domain.
 2. Benefits: more 'eyeballs' = more likely to identify bugs/backdoors. then fix those bugs.
 3. Platform: Kernel.org/ Github
@@ -33,9 +38,9 @@ Group 3 (case study 3): The Turing Way
 3. Platform: 
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: open source
+2. Benefits: freedom of information 
+3. Platform: variety of platforms 
 
 Group 5 (case study 5): 
 1. License: 
