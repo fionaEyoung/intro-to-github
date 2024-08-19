@@ -33,9 +33,9 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 3. Platform: variety of platforms 
 
 Group 5 (case study 5): 
-1. License: 
-2. Benefits:
-4. Platform:
+1. License: Open Source
+2. Benefits: Anyone can edit freely and help solve bugs within the code
+4. Platform: Hugging Face transformers,Keras,TensorFlow
 
 
 Group 6 (case study 1): Linux
