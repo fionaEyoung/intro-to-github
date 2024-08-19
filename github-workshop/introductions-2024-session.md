@@ -90,9 +90,9 @@ Group 14 (case study 4): Open Source Investigation (OSINT)
 3. Platform: 
 
 Group 15 (case study 5): Open source AI
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Open Source 
+2. Benefits: Makes it very easy to compiled code using precompiled python libraries 
+3. Platform: https://opensource.org/deepdive
 
 Group 16 (case study 1): Linux
 1. License: 
