@@ -43,10 +43,10 @@ Group 4 (case study 4): Open Source Investigation (OSINT)
 2. Benefits: freedom of information 
 3. Platform: variety of platforms 
 
-Group 5 (case study 5): 
-1. License: 
-2. Benefits:
-4. Platform:
+Group 5 (case study 5): Open Source AI
+1. License: Public Domain
+2. Benefits: Anyone can use, promotes innovation since allowed to be distributed around 
+3. Platform: Various
 
 
 Group 6 (case study 1): Linux
