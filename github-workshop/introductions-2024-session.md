@@ -17,6 +17,12 @@ Group 1 (case study 1): Linux
 2. Benefits: Users can find bugs and fix those bugs.
 3. Platform: Kernel.org/ Github.
 
+Group 1.2 (case study 1): Linux
+Group 1 (case study 1): Linux
+1. License: Public Domain.
+2. Benefits: Users can find bugs and fix those bugs.
+3. Platform: Kernel.org/ Github.
+
 Group 2 (case study 2): Arduino
 1. License: Creative Commons
 2. Benefits: Support can be provided by community, transparency between users and developers = trust, allows users to apply electronic board to different projects
