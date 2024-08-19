@@ -18,9 +18,9 @@ Group 1 (case study 1): Linux
 3. Platform: Kernel.org/ Github.
 
 Group 2 (case study 2): Arduino
-1. License: Public Domain.
-2. Benefits: Users can impliment their own features.
-3. Platform: Github.
+1. License: Creative Commons
+2. Benefits: Support can be provided by community, transparency between users and developers = trust, allows users to apply electronic board to different projects
+3. Platform: https://github.com/arduino
 
 Group 3 (case study 3): The Turing Way
 1. License: 
