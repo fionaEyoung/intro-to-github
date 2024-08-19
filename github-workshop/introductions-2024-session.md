@@ -18,9 +18,9 @@ Group 1 (case study 1): Linux
 3. Platform: Kernel.org/ Github.
 
 Group 2 (case study 2): Arduino
-1. License: Creative Commons
-2. Benefits: Support can be provided by community, transparency between users and developers = trust, allows users to apply electronic board to different projects
-3. Platform: https://github.com/arduino
+1. License: Public Domain.
+2. Benefits: Users can impliment their own features.
+3. Platform: Github.
 
 Group 3 (case study 3): The Turing Way
 1. License: 
@@ -84,9 +84,9 @@ Group 14 (case study 4): Open Source Investigation (OSINT)
 3. Platform: 
 
 Group 15 (case study 5): Open source AI
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Open Source 
+2. Benefits: Makes it very easy to compiled code using precompiled python libraries 
+3. Platform: https://opensource.org/deepdive
 
 Group 16 (case study 1): Linux
 1. License: 
