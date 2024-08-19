@@ -13,9 +13,9 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 ## Question: What have you learned about your case study:
 
 Group 1 (case study 1): Linux
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: Public Domain.
+2. Benefits: Users can find bugs and fix those bugs.
+3. Platform: Kernel.org/ Github
 
 Group 2 (case study 2): Arduino
 1. License:
