@@ -15,7 +15,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 Group 1 (case study 1): Linux
 1. License: Public Domain.
 2. Benefits: Users can find bugs and fix those bugs.
-3. Platform: Kernel.org/ Github
+3. Platform: Kernel.org/ Github.
 
 Group 2 (case study 2): Arduino
 1. License: Creative Commons
@@ -28,14 +28,14 @@ Group 3 (case study 3): The Turing Way
 3. Platform: 
 
 Group 4 (case study 4): Open Source Investigation (OSINT)
-1. License: 
-2. Benefits:
-3. Platform: 
+1. License: open source / free domain 
+2. Benefits: freedom of information , background checks , cybersecurity threat analysis and brand protection  
+3. Platform: variety of platforms ( osint dojo -  https://www.osintdojo.com ) 
 
 Group 5 (case study 5): 
-1. License: 
-2. Benefits:
-4. Platform:
+1. License: Open Source
+2. Benefits: Anyone can edit freely and help solve bugs within the code
+4. Platform: Hugging Face transformers,Keras,TensorFlow
 
 
 Group 6 (case study 1): Linux
