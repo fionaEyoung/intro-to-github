@@ -18,7 +18,7 @@ Group 1 (case study 1): Linux
 3. Platform: 
 
 Group 2 (case study 2): Arduino
-1. License: Creative Commons
+1. License:
 2. Benefits: 
 3. Platform: 
 
