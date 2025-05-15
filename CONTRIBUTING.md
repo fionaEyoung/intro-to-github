@@ -12,7 +12,7 @@ The **Template** repository is developed for **sessions as part of the _Git Good
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all of the activities related to this workshop during the summer school.
 
-⭐️ You are acknowledged for all kinds of contributions
+⭐️ You're acknowledged for all kinds of contributions
 ---
 
 In this repository, we use the [All Contributors Bot](https://allcontributors.org/) that help us recognise all contributors, even when they don't directly contribute on the repository.
