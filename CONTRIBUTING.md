@@ -16,7 +16,7 @@ We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all of the act
 ---
 
 In this repository, we use the [All Contributors Bot](https://allcontributors.org/) that help us recognise all contributors, even when they don't directly contribute on the repository.
-You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contribution. 
+You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji-key) representing the types of contributions that you can make. 
 
 To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
 `@all-contributors please add @<username> for <keyword in the Type column>`
