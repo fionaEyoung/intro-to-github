@@ -1,6 +1,6 @@
 # GitHub Workshop Folder
 
-Hello and Welcome to the Git Good Workshop!
+Hello and Welcome to this Github Workshop!
 
 This folder contains the materials and slides for the _Git Good: Introduction to GitHub_ workshop. 
 
