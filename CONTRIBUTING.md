@@ -62,4 +62,4 @@ and indicate if changes were made) in any reasonable manner, but not in any way 
 licensor endorses you or your use, and with no additional restrictions.
 <!--Replace these sentences to appropriate reflect the license chosen in your project-->
 
-For a more detailed contribution guideline, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
+For more detailed contribution guidelines, please check out *[The Turing Way's CONTRIBUTING.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)*.
