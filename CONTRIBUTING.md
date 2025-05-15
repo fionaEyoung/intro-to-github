@@ -21,7 +21,7 @@ You can find all [emoji/Type keywords](https://allcontributors.org/docs/en/emoji
 To add a contributor, comment on Issue or Pull Request (where the contributor is involved) using this message for @all-contributors:
 `@all-contributors please add @<username> for <keyword in the Type column>`
 
-## Whatever is your availability, there is a way to contribute to this GitHub repository.
+## Whatever your availability is, there is a way to contribute to this GitHub repository.
 
 👋 I'm busy, I only have 5 minutes
 ---
