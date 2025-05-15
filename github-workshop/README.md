@@ -2,7 +2,7 @@
 
 Hello and Welcome to the Git Good Workshop!
 
-This folder contains the materials and slides for the Git Good: Introduction to GitHub workshop. 
+This folder contains the materials and slides for the _Git Good: Introduction to GitHub_ workshop. 
 
 ## Contents
 * [Widening-Participation-Git-Good-Workshop-2024.pdf]() is a pdf version of the slides from the workshop. You will be able to view these and use them as a reference after the session.
