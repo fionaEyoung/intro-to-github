@@ -8,7 +8,7 @@ Although we also use open research practices by sharing this repository public f
 
 To learn more about why we recommend creating a `CONTRIBUTING.md` file, please read the [Contributors and Communication Pathways chapter](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-contributors.html) in *The Turing Way* Guide for Project Design.
 
-The **Template** repository is developed for **sessions as part of the _Git Good: Introduction to GitHub_ workshop and follows the practices and reccomendations of [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way)**.
+This **Template** repository is developed for **sessions as part of the _Git Good: Introduction to GitHub_ workshop and follows the practices and reccomendations of [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way)**.
 
 We have a [Code of Conduct](./CODE_OF_CONDUCT.md) that applies to all of the activities related to this workshop during the summer school.
 
