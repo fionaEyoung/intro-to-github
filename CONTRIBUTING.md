@@ -36,7 +36,7 @@ You can read our [README](./README.md) file to find details and the next milesto
 You can also read any different issues in this repository and comment where you would like to be involved.
 
 
-🛠 I am ready to contribute 
+🛠 I'm ready to contribute 
 ---
 
 - For open tasks in this repository, please see the [Issues section](../../issues).
