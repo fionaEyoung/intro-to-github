@@ -23,7 +23,7 @@ To add a contributor, comment on Issue or Pull Request (where the contributor is
 
 ## Whatever is your availability, there is a way to contribute to this GitHub repository.
 
-👋 I'm busy, I only have 5 minute
+👋 I'm busy, I only have 5 minutes
 ---
 
 Look through our currently open [issues](../../issues) to troubleshoot an issue or participate in an ongoing discussion by commenting.
