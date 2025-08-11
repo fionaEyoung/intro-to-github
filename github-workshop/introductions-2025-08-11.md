@@ -14,7 +14,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 
 Group 1 (case study 1): Linux
 1. License: 
-2. Benefits: 
+2. Benefits:
 3. Platform: 
 
 Group 2 (case study 2): Arduino
