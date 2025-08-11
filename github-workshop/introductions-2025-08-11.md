@@ -3,7 +3,7 @@
 ## About! 
 
 This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
-Please refer to the checkin Issue that we commented on in Exercise 1 to find your number. Then add your answer to the question beside your corresponding number.
+Please refer to the checkin Issue that we commented on in Exercise 1 to find your group number. Then add your answer to the question beside your corresponding number.
 
 ## Questions from slidedeck
 1. What is the project’s license?
