@@ -2,7 +2,7 @@
 
 ## About! 
 
-This file is Exercise 2 in the Git Good: Introduction to GitHub workshop. 
+This file is Exercise 2 in the Git Good: Introduction to Github workshop. 
 Please refer to the checkin Issue that we commented on in Exercise 1 to find your group number. Then add your answer to the question beside your corresponding number.
 
 ## Questions from slidedeck
